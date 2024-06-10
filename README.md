@@ -1,5 +1,5 @@
 # This is My first Git repo.
-hello everyone :-).
+Hello everyone :-).
 This is My first Github repo.
 <br>
-Author : Abhishek ydv
+Author : Abhishek Yadav.
