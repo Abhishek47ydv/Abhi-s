@@ -1,4 +1,4 @@
-# This is my firse Git repo.
+# This is my first Git repo.
 
 Hello everyone :-)
 This is my first Git repo.
